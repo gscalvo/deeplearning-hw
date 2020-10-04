@@ -10,9 +10,9 @@
 * Which model tracks the actual values better over time?
 
     * The Fng Model is a better predictor
-    * ![](fng_model.png)
+    ![](fng_model.png)
     * For reference, the closing price model:
-    * ![](closing_model.png)
+     ![](closing_model.png)
 
 * Which window size works best for the model?
 
